@@ -4,6 +4,7 @@ on:
  push:
   branches: 
    - main
+   - qa
   paths-ignore:
     - ".github/workflows/*"
 jobs:
